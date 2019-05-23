@@ -1,0 +1,5 @@
+11:15/23.939 [main] INFO  dev.demo_logging.console.App - Bonjour Slf4J
+11:15/23.941 [main] INFO  dev.demo_logging.console.App - Implémentation Logback
+11:17/49.355 [main] INFO  dev.demo_logging.console.App - Bonjour Slf4J
+11:17/49.357 [main] INFO  dev.demo_logging.console.App - Implémentation Logback
+11:17/49.358 [main] DEBUG dev.demo_logging.service.AppService - Traitement 1 : param = valeur 1
